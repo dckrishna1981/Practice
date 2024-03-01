@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-22T18:03:58 IST" name="Suite" finished-at="2024-02-22T18:04:07 IST" duration-ms="9560">
+    <groups>
+    </groups>
+    <test started-at="2024-02-22T18:03:58 IST" name="Test" finished-at="2024-02-22T18:04:07 IST" duration-ms="9560">
+      <class name="com.tests.TestCases">
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:03:58 IST" name="loginApplication" finished-at="2024-02-22T18:03:58 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="TestCase1()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:03:58 IST" name="TestCase1" finished-at="2024-02-22T18:04:07 IST" duration-ms="9247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="logoutApplication()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="logoutApplication" finished-at="2024-02-22T18:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="loginApplication" finished-at="2024-02-22T18:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="TestCase2()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="TestCase2" finished-at="2024-02-22T18:04:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="logoutApplication()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="logoutApplication" finished-at="2024-02-22T18:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method is-config="true" signature="loginApplication()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="loginApplication" finished-at="2024-02-22T18:04:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method signature="TestCase3()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="TestCase3" finished-at="2024-02-22T18:04:07 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="logoutApplication()[pri:0, instance:com.tests.TestCases@4d154ccd]" started-at="2024-02-22T18:04:07 IST" name="logoutApplication" finished-at="2024-02-22T18:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+      </class> <!-- com.tests.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
